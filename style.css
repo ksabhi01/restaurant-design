@@ -1,0 +1,45 @@
+@media screen  and (max-width:768px){
+			#logo{
+				height:2.3rem !important;
+			}
+			
+			#book{
+				width:84% !important;
+			}
+			
+			#middle_quote{
+				width: 20rem !important;
+				height:15rem !important;
+			}
+			
+			#middle_quote h1{
+				font-size:1.8rem !important;
+			}
+			
+			ul{
+				width: 24vw !important;
+			}
+			.nav_links{
+				font-size:1.3rem !important;
+			}
+			#menu_button{
+				font-size:19px !important;
+				margin-left: 2% !important;
+				padding: 13px 25px !important;
+				margin-top: 9px !important;
+				margin-left: 19%!important;
+			}
+			#subscribe{
+				width: 16% !important;
+			}
+		}
+@media screen  and (max-width:426px){
+		#main_heading{
+			display:none;
+		}
+		
+		#middle_quote{
+			top:21% !important;
+			left:8% !important;
+		}
+}	
